@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.androidx.material3)
 
     implementation(libs.bundles.ytdl)
+    implementation(libs.bundles.koin)
 
     testImplementation(libs.junit)
 
